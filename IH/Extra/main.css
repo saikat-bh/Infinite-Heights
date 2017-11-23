@@ -1,0 +1,38 @@
+html,body{
+margin:0;
+padding:0;
+border: 1px solid white;
+}
+
+#page-container {
+	width: 100%;
+	background: grey;
+	margin:auto;
+	
+}
+
+#main-nav{
+width:760px;
+margin:auto;
+background-color:#e100ff;
+height:50px;
+color:white;
+}
+
+.mhl
+{
+width:500px;
+float:left;
+font-weight:bold;
+color:white;
+text-align:left;
+}
+
+.mhr
+{
+width:200px;
+float:right;
+font weight:bold;
+color:white;
+text-align:right;
+}
